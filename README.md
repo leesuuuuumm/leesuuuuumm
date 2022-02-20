@@ -13,7 +13,7 @@
   <h3> 💻 Experience 💻 </h3>
  
   <p><image src= 'https://www.ibk.co.kr/img/common/ibk.ico'/> IBK 기업은행 26기 인턴(2021.12.30 ~ 2022.02.04) </p>
-  <p><image src= 'https://user-images.githubusercontent.com/69910544/154852227-bc3e20b8-ae62-40b8-b58c-e853bf9086e4.png'/> 삼성 청년 소프트웨어 아카데미(SSAFY) 4기(2020.7 ~ 2021.6) </p>
+  <p><image src= 'https://user-images.githubusercontent.com/69910544/154852227-bc3e20b8-ae62-40b8-b58c-e853bf9086e4.png'/> 삼성 청년 소프트웨어 아카데미(SSAFY) 4기(2020.07 ~ 2021.06) </p>
   <br/>
   
   <h3> 🌳 Github 🌳 </h3>
