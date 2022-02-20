@@ -9,6 +9,7 @@
   
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=Spring-Boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-bdad79?style=plastic&logo=Hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white)
   <br/>
